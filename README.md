@@ -1,6 +1,10 @@
-### Hi 👋, i'm Habeeb Rahmani
+## Hi 👋, i'm Habeeb Rahmani
 
-![profile_](https://user-images.githubusercontent.com/89722385/143881762-4d1017d7-d5f3-498f-90ac-e30165b908c1.jpeg)
+BCA(Batchelor of Computer Science)
+MCA(Master of Computer Science)
+Mangalore University ,Karnataka.
+Currently Working @ InfoPark Trissur.
+Az Software Developer
 
 
 <!--
