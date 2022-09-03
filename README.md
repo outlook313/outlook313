@@ -1,10 +1,10 @@
 ## Hi 👋, i'm Habeeb Rahmani
-
-BCA(Batchelor of Computer Science)
-MCA(Master of Computer Science)
-Mangalore University ,Karnataka.
-Currently Working @ InfoPark Trissur.
-Az Software Developer
+Living @Kerala
+BCA(Batchelor of Computer Science)<br>
+MCA(Master of Computer Science)<br>
+Mangalore University ,Karnataka.<br>
+Currently Working @ InfoPark Trissur.<br>
+Az Software Developer<br>
 
 
 <!--
