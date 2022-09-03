@@ -1,5 +1,5 @@
 ## Hi 👋, i'm Habeeb Rahmani
-Living @Kerala
+Living @Kerala kasaragod<br>
 BCA(Batchelor of Computer Science)<br>
 MCA(Master of Computer Science)<br>
 Mangalore University ,Karnataka.<br>
