@@ -1,4 +1,4 @@
-## Hi 👋, i'm Habeeb Rahmani
+## Hi 👋, i'm Habeeb Rahman
 Living @Kerala kasaragod<br>
 BCA(Batchelor of Computer Science)<br>
 MCA(Master of Computer Science)<br>
