@@ -1,5 +1,5 @@
 ## Hi 👋, i'm Habeeb Rahman
-Living @Kerala<br>
+Living @kasaragod <br>
 BCA(Batchelor of Computer Science)<br>
 MCA(Master of Computer Science)<br>
 Mangalore University ,Karnataka.<br>
